@@ -1,6 +1,4 @@
-//Regan Setter
-//Student ID 3505894
-//Computer Science 206
+//Regan
 //January 1st, 2021
 
 //Write a program that opens a file and counts the whitespace-separated words in that file.
